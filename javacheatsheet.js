@@ -1,3 +1,13 @@
+
+//Types of object: 
+//string --> "hello"
+//number --> 5
+//array --> ["one",2,"three"]
+//undefined --> undefined
+//boolean --> true 
+
+
+
 // 1a adding two variables
 
 var x = 2;
