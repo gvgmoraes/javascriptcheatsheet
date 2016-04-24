@@ -6,6 +6,16 @@
 //undefined --> undefined
 //boolean --> true 
 
+// and= &&
+// or= ||
+// === exactely the same so that 2 ===2
+// ==of the same value so that 2=='two'
+// != not equal to 
+// !== not of the same value so that 2!=='two'
+// < less than 
+// <= less than or equal to
+// > more than
+// >= more than or equal to 
 
 
 // 1a adding two variables
@@ -25,7 +35,11 @@ x+y;
 //2 multidimentional array 
 var sports = [["swimming", "surfing"],["running", "cycling"]]
 
-console.log (sports[0][1])
+//console.log prints something to console
+console.log (sports[0][1]) 
+
+//alert pops up an alert 
+alert("This is an alert")
 
 //3 checking if variable is less than 10 
 var lessThan= function(x,y){
